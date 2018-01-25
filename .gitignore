@@ -16,3 +16,8 @@ UWP/bin
 UWP/obj
 packages
 *.userprefs
+\.idea/\.idea\.CarouselView/\.idea/
+
+\.DS_Store
+
+\.idea/\.idea\.CarouselView/
